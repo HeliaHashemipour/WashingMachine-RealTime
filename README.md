@@ -27,6 +27,7 @@ This readme provides an overview of the Washing Machine Task Scheduling project,
 ## Conclusion
 
 > The Washing Machine Task Scheduling project exemplifies efficient task management in an embedded system context. Through NPP and EDF algorithms and the Proteus simulation environment, the project offers insights into scheduling strategies, showcasing the optimal execution of washing machine operations.
+<img width="1184" alt="wash" src="https://github.com/HeliaHashemipour/WashingMachine-RealTime/assets/71961438/84d777c1-a635-41a1-81ed-a7cefa991d90">
 
-<img width="1162" alt="Screenshot 1402-05-19 at 07 33 18" src="https://github.com/HeliaHashemipour/WashingMachine-RealTime/assets/71961438/9122040f-6e54-4be9-ba95-63e8a9ca3d0a">
+
 > 
