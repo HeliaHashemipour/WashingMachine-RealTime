@@ -1,7 +1,7 @@
 
 > Instructor: [Dr. H. Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ&hl=en)
 
-> Summer 2022
+> Spring 2023
 
 
 This readme provides an overview of the Washing Machine Task Scheduling project, outlining task characteristics, scheduling algorithms, and simulation methodologies.
