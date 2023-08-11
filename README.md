@@ -1,4 +1,4 @@
-# WashingMachine-RealTime
+
 > Instructor: [Dr. H. Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ&hl=en)
 
 > Summer 2022
